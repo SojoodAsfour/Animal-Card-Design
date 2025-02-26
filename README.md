@@ -21,7 +21,7 @@ This project is a beautifully designed animal card that follows specific design 
 ## 📂 Folder Structure
 ```
 /animal-card-project
-│── index.html
+│── card.html
 │── styles.css
 │── README.md
 ```
@@ -35,7 +35,7 @@ This project is a beautifully designed animal card that follows specific design 
    ```sh
    cd animal-card-project
    ```
-3. **Open `index.html` in a web browser** to view the card.  
+3. **Open `card.html` in a web browser** to view the card.  
 
 ## ✅ Code Quality & Best Practices
 - Uses **meaningful CSS class names** for styling 🎨

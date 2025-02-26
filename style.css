@@ -1,0 +1,45 @@
+ul{
+    list-style: none;
+    padding: 5px;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.titlee{
+    padding: 10px;
+    margin-left: 10px;
+    font: italic bold small-caps 50px 'Times New Roman', Times, serif;
+
+}
+.container{
+    width: 1100px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(134, 110, 83, 0.701);
+    border: 2px solid black;
+}
+.card{
+    width: 310px;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px;
+    border-radius:calc(10px);
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(243, 235, 226);
+    box-shadow: 5px 5px 5px rgb(222, 222, 222);
+}
+.Information{
+    width: 300px;
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px rgb(86, 73, 73);
+}
+.IntreastingFact{
+    font-style: italic;
+    padding: 5px;
+}
